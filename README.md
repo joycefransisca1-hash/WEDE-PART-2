@@ -9,15 +9,21 @@ A small business website for HairByJay — luxury lace wigs and hair pieces. Bui
 - Google Fonts — Playfair Display (headings) & Jost (body text)
 
 ## Project Structure
-├── index.html          # Home page
-├── about.html          # About Us page
-├── products.html       # Products page
-├── contact.html        # Contact page
-├── enquiries.html      # Enquiries form page
+├── index.html  
+# Home page
+├── about.html
+# About Us page
+├── products.html  
+# Products page
+├── contact.html  
+# Contact page
+├── enquiries.html  
+# Enquiries form page
 ├── css_assets/
-│   └── styles.css      # Main stylesheet
+│   └── styles.css    
+# Main stylesheet
 └── _images/
-├── HairByJay_logo.jpeg
+ ├── HairByJay_logo.jpeg
 └── product1.jpeg ... product7.jpeg
 
 ## Running Locally
