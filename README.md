@@ -53,5 +53,10 @@ Colors and typography are drawn directly from the HairByJay brand mark:
 ## Changelog
 See [CHANGELOG.md](./CHANGELOG.md) for a full history of changes.
 
+## References
+* Anthropic (2026) Claude. Available at: https://claude.ai/⁠￼ (Accessed: 15 September 2026).
+* Pinterest (2026) About Pinterest. Available at: Pinterest⁠￼ (Accessed: 06 September 2026). Pinterest describes itself as a visual discovery platform, making it relevant as a source of visual and website-design inspiration. 
+* W3Schools (2026) W3Schools Online Web Tutorials. Available at: W3Schools⁠￼ (Accessed: 15 September 2026). W3Schools provides HTML, CSS and JavaScript tutorials and references, which are relevant to the proposed website’s technical development.
+
 ## License
 © 2026 HairByJay. All rights reserved.
