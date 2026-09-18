@@ -32,7 +32,7 @@ No build tools or dependencies required.
 1. Clone or download this repository
 2. Open `index.html` in any web browser
 
-That is the whole site is static HTML and CSS.
+The whole site is static HTML and CSS.
 
 ## Pages
 - **Home** — Hero section, tagline, featured products, and brand highlights
