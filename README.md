@@ -1,7 +1,10 @@
 # WEDE-PART-2
 # HairByJay
 
-A small business website for HairByJay — luxury lace wigs and hair pieces. Built around the brand's motto: *"Wear luxury, not effort."*
+A small business website for HairByJay which focuses on selling luxury lace wigs and hair pieces. Built around the brand's motto: *"Wear luxury, not effort."*
+
+## About the business
+HairByJay is a South African hair brand based in Johannesburg, Sandton which offers a hand picked collection of 100% human hair lace wigs. Each and every piece is chosen for its quality, density, natural shine and a pre-plucked hairline built for women who want salon experience along with quality hair without the salon long hours.
 
 ## Tech Stack
 - HTML5
