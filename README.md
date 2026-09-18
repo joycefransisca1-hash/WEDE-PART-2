@@ -22,7 +22,7 @@ A small business website for HairByJay — luxury lace wigs and hair pieces. Bui
 # Main stylesheet
 ├── css_assets/
 │   └── styles.css    
-└── _images/
+# Images
  ├── HairByJay_logo.jpeg
 └── product1.jpeg ... product7.jpeg
 
